@@ -1,2 +1,6 @@
-# zram-testing
-ZRam speed and effeciency testing
+# Zram-testing
+ZRAM speed and effeciency testing
+
+see METHODOLOGY.md for the testing methodology.
+
+
